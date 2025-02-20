@@ -1,4 +1,4 @@
-# Blog Lyfe
+# PRO BLOG HUB
 This is a project that demonstrates how you could implement a blog on a Django and React application. What is interesting about the project is that it demonstrates how you can implement a WYSIWYG editor on the Django Admin which makes it much easier to create blogs posts. This is an implementation for making blog posts assuming that you just want an admin user to post blogs on the site, this is not an implementation for a multiuser blog application.
 
 In order to test out this project, follow these steps:
