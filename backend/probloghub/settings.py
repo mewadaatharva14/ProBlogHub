@@ -153,6 +153,5 @@ SUMMERNOTE_THEME = 'bs4'
 
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # Your React app URL
+    "http://localhost:3000",  # React app URL
 ]
-CORS_ALLOW_ALL_ORIGINS = True
